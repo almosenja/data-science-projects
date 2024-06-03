@@ -1,4 +1,4 @@
-# Predicting Price of Used Vehicle 🚗
+# Predicting Used Vehicle Price 🚗
 **The code is available [here](https://github.com/almosenja/data-science-projects/tree/main/Used%20Vehicle%20Project/notebooks)**
 
 ## Objective
