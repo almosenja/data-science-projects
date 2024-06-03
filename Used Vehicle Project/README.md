@@ -1,5 +1,5 @@
 # Predicting Price of Used Vehicle 🚗
-**The code is available [here](https://github.com/almosenja/data-science-projects)**
+**The code is available [here](https://github.com/almosenja/data-science-projects/tree/main/Used%20Vehicle%20Project/notebooks)**
 
 ## Objective
 In this project, I explored and deployed implemented a pipeline that consists of several stages:
@@ -15,3 +15,4 @@ Dataset used in this project is from Craigslist which is the world's largest col
 The dataset can be found here: https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data
 
 ## Pipeline
+![Flow chart](https://github.com/almosenja/data-science-projects/blob/main/Used%20Vehicle%20Project/imgs/flowchart.png "Overall project flowchart")
